@@ -1,6 +1,7 @@
+./wiki_graph.py redes complexas
 ============
 Carregando libs...
-Carregando http://pt.wikipedia.org/w/index.php?title=albert_einstein&printable=yes
+Carregando http://pt.wikipedia.org/w/index.php?title=redes_complexas&printable=yes
 Encontrados 84 parágrafos.
 36 palavras no primeiro.
 Gerando Grafo...
