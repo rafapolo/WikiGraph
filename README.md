@@ -1,3 +1,4 @@
+```
 ./wiki_graph.py redes complexas
 ============
 Carregando libs...
@@ -8,5 +9,6 @@ Gerando Grafo...
 Renderizando...
 Ok
 ============
+```
 
 ![WikiGraph Sample](https://github.com/rafapolo/WikiGraph/blob/master/sample_wikigraph_shot.jpg)
